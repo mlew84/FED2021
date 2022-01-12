@@ -30,3 +30,10 @@ h2 h3 {
 a:visited {
     color: red;
 }
+
+
+/*Use `nth-child()` so that every 3rd item in list displays a specific style.*/
+
+li:nth-child(3) {
+    color: gold;
+}
