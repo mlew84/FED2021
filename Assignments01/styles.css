@@ -19,6 +19,21 @@ h2 h3 {
     color: white;
 }
 
+#Froggy {
+    background-color: purple;
+    color: white;
+}
+
+#Song {
+    background-color: gold;
+    color: white;
+}
+
+#Who {
+    background-color: pink;
+    color: white;
+}
+
 
 /*Use the `:hover` so that when I hover over an element, its styling changes.*/
 
@@ -36,4 +51,5 @@ a:visited {
 
 li:nth-child(3) {
     color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
