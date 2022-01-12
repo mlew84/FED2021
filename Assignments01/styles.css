@@ -13,3 +13,20 @@ h2 h3 {
     border: solid;
     padding: 10px;
 }
+
+#Career {
+    background-color: black;
+    color: white;
+}
+
+
+/*Use the `:hover` so that when I hover over an element, its styling changes.*/
+
+#Career:hover {
+    background-color: plum;
+    color: red;
+}
+
+a:visited {
+    color: red;
+}
