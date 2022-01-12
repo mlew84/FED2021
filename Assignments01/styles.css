@@ -1,3 +1,15 @@
-h2 {
-    color: lawngreen;
+* {
+    background-color: aqua;
+}
+
+h2 h3 {
+    color: green;
+}
+
+
+/*Give everything a border and padding*/
+
+.main-content {
+    border: solid;
+    padding: 10px;
 }
