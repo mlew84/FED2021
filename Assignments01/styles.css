@@ -1,5 +1,7 @@
 * {
     background-color: aqua;
+    border:1px solid green;
+    padding: 10px;
 }
 
 h2 h3 {
@@ -52,4 +54,12 @@ a:visited {
 li:nth-child(3) {
     color: gold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.primary{
+    color: blue;
+}
+
+.secondary{
+    color: red;
 }
